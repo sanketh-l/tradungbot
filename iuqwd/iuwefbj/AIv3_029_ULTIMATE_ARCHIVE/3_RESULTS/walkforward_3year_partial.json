@@ -1,0 +1,2958 @@
+{
+  "results": [
+    {
+      "month": "2023-11",
+      "test_start": "2023-11-01 00:00:00+00:00",
+      "test_end": "2023-12-01 00:00:00+00:00",
+      "train_start": "2022-10-01 00:00:00+00:00",
+      "train_end": "2023-09-30 23:59:59+00:00",
+      "n_trades": 120,
+      "n_wins": 62,
+      "n_losses": 58,
+      "win_rate": 0.5166666666666667,
+      "net": 7968.830864971533,
+      "net_pct": 0.7968830864971532,
+      "max_dd_pct": 0.02358752261622957,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2023-12",
+      "test_start": "2023-12-01 00:00:00+00:00",
+      "test_end": "2024-01-01 00:00:00+00:00",
+      "train_start": "2022-11-01 00:00:00+00:00",
+      "train_end": "2023-10-31 23:59:59+00:00",
+      "n_trades": 86,
+      "n_wins": 41,
+      "n_losses": 45,
+      "win_rate": 0.47674418604651164,
+      "net": 970.9110390629285,
+      "net_pct": 0.09709110390629284,
+      "max_dd_pct": 0.04523201707963115,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-01",
+      "test_start": "2024-01-01 00:00:00+00:00",
+      "test_end": "2024-02-01 00:00:00+00:00",
+      "train_start": "2022-12-01 00:00:00+00:00",
+      "train_end": "2023-11-30 23:59:59+00:00",
+      "n_trades": 94,
+      "n_wins": 47,
+      "n_losses": 47,
+      "win_rate": 0.5,
+      "net": 9945.927232211714,
+      "net_pct": 0.9945927232211714,
+      "max_dd_pct": 0.05197533192894652,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-02",
+      "test_start": "2024-02-01 00:00:00+00:00",
+      "test_end": "2024-03-01 00:00:00+00:00",
+      "train_start": "2023-01-01 00:00:00+00:00",
+      "train_end": "2023-12-31 23:59:59+00:00",
+      "n_trades": 95,
+      "n_wins": 41,
+      "n_losses": 54,
+      "win_rate": 0.43157894736842106,
+      "net": 1611.2591855418323,
+      "net_pct": 0.16112591855418323,
+      "max_dd_pct": 0.07263032651144655,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-03",
+      "test_start": "2024-03-01 00:00:00+00:00",
+      "test_end": "2024-04-01 00:00:00+00:00",
+      "train_start": "2023-02-01 00:00:00+00:00",
+      "train_end": "2024-01-31 23:59:59+00:00",
+      "n_trades": 97,
+      "n_wins": 49,
+      "n_losses": 48,
+      "win_rate": 0.5051546391752577,
+      "net": 5646.747457406249,
+      "net_pct": 0.5646747457406249,
+      "max_dd_pct": 0.025991566576481415,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-04",
+      "test_start": "2024-04-01 00:00:00+00:00",
+      "test_end": "2024-05-01 00:00:00+00:00",
+      "train_start": "2023-03-01 00:00:00+00:00",
+      "train_end": "2024-02-29 23:59:59+00:00",
+      "n_trades": 110,
+      "n_wins": 57,
+      "n_losses": 53,
+      "win_rate": 0.5181818181818182,
+      "net": 3692.7532023319,
+      "net_pct": 0.36927532023319,
+      "max_dd_pct": 0.03970572031000051,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-05",
+      "test_start": "2024-05-01 00:00:00+00:00",
+      "test_end": "2024-06-01 00:00:00+00:00",
+      "train_start": "2023-04-01 00:00:00+00:00",
+      "train_end": "2024-03-31 23:59:59+00:00",
+      "n_trades": 102,
+      "n_wins": 49,
+      "n_losses": 53,
+      "win_rate": 0.4803921568627451,
+      "net": 728.8547198140586,
+      "net_pct": 0.07288547198140587,
+      "max_dd_pct": 0.03569709942716737,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-06",
+      "test_start": "2024-06-01 00:00:00+00:00",
+      "test_end": "2024-07-01 00:00:00+00:00",
+      "train_start": "2023-05-01 00:00:00+00:00",
+      "train_end": "2024-04-30 23:59:59+00:00",
+      "n_trades": 72,
+      "n_wins": 32,
+      "n_losses": 40,
+      "win_rate": 0.4444444444444444,
+      "net": 596.0808322076682,
+      "net_pct": 0.05960808322076682,
+      "max_dd_pct": 0.03375743275437834,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-07",
+      "test_start": "2024-07-01 00:00:00+00:00",
+      "test_end": "2024-08-01 00:00:00+00:00",
+      "train_start": "2023-06-01 00:00:00+00:00",
+      "train_end": "2024-05-31 23:59:59+00:00",
+      "n_trades": 84,
+      "n_wins": 42,
+      "n_losses": 42,
+      "win_rate": 0.5,
+      "net": 1054.8430125549203,
+      "net_pct": 0.10548430125549203,
+      "max_dd_pct": 0.04383696884838009,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-08",
+      "test_start": "2024-08-01 00:00:00+00:00",
+      "test_end": "2024-09-01 00:00:00+00:00",
+      "train_start": "2023-07-01 00:00:00+00:00",
+      "train_end": "2024-06-30 23:59:59+00:00",
+      "n_trades": 82,
+      "n_wins": 43,
+      "n_losses": 39,
+      "win_rate": 0.524390243902439,
+      "net": 5602.240438826328,
+      "net_pct": 0.5602240438826328,
+      "max_dd_pct": 0.027482912271411915,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-09",
+      "test_start": "2024-09-01 00:00:00+00:00",
+      "test_end": "2024-10-01 00:00:00+00:00",
+      "train_start": "2023-08-01 00:00:00+00:00",
+      "train_end": "2024-07-31 23:59:59+00:00",
+      "n_trades": 119,
+      "n_wins": 59,
+      "n_losses": 60,
+      "win_rate": 0.4957983193277311,
+      "net": 1715.0240086788272,
+      "net_pct": 0.1715024008678827,
+      "max_dd_pct": 0.03725643573728915,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-10",
+      "test_start": "2024-10-01 00:00:00+00:00",
+      "test_end": "2024-11-01 00:00:00+00:00",
+      "train_start": "2023-09-01 00:00:00+00:00",
+      "train_end": "2024-08-31 23:59:59+00:00",
+      "n_trades": 58,
+      "n_wins": 29,
+      "n_losses": 29,
+      "win_rate": 0.5,
+      "net": 1840.4650864107516,
+      "net_pct": 0.18404650864107516,
+      "max_dd_pct": 0.054824565657327524,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-11",
+      "test_start": "2024-11-01 00:00:00+00:00",
+      "test_end": "2024-12-01 00:00:00+00:00",
+      "train_start": "2023-10-01 00:00:00+00:00",
+      "train_end": "2024-09-30 23:59:59+00:00",
+      "n_trades": 114,
+      "n_wins": 58,
+      "n_losses": 56,
+      "win_rate": 0.5087719298245614,
+      "net": 5732.491428278065,
+      "net_pct": 0.5732491428278065,
+      "max_dd_pct": 0.03384013936779497,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2024-12",
+      "test_start": "2024-12-01 00:00:00+00:00",
+      "test_end": "2025-01-01 00:00:00+00:00",
+      "train_start": "2023-11-01 00:00:00+00:00",
+      "train_end": "2024-10-31 23:59:59+00:00",
+      "n_trades": 103,
+      "n_wins": 47,
+      "n_losses": 56,
+      "win_rate": 0.4563106796116505,
+      "net": 1190.493080722601,
+      "net_pct": 0.11904930807226011,
+      "max_dd_pct": 0.05111141787501545,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-01",
+      "test_start": "2025-01-01 00:00:00+00:00",
+      "test_end": "2025-02-01 00:00:00+00:00",
+      "train_start": "2023-12-01 00:00:00+00:00",
+      "train_end": "2024-11-30 23:59:59+00:00",
+      "n_trades": 72,
+      "n_wins": 36,
+      "n_losses": 36,
+      "win_rate": 0.5,
+      "net": 3559.712467035768,
+      "net_pct": 0.35597124670357677,
+      "max_dd_pct": 0.035172270123071704,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-02",
+      "test_start": "2025-02-01 00:00:00+00:00",
+      "test_end": "2025-03-01 00:00:00+00:00",
+      "train_start": "2024-01-01 00:00:00+00:00",
+      "train_end": "2024-12-31 23:59:59+00:00",
+      "n_trades": 104,
+      "n_wins": 51,
+      "n_losses": 53,
+      "win_rate": 0.49038461538461536,
+      "net": 3079.4395738898947,
+      "net_pct": 0.3079439573889895,
+      "max_dd_pct": 0.032356100667959235,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-03",
+      "test_start": "2025-03-01 00:00:00+00:00",
+      "test_end": "2025-04-01 00:00:00+00:00",
+      "train_start": "2024-02-01 00:00:00+00:00",
+      "train_end": "2025-01-31 23:59:59+00:00",
+      "n_trades": 115,
+      "n_wins": 56,
+      "n_losses": 59,
+      "win_rate": 0.48695652173913045,
+      "net": 3519.9567350822344,
+      "net_pct": 0.35199567350822347,
+      "max_dd_pct": 0.02955804473592249,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-04",
+      "test_start": "2025-04-01 00:00:00+00:00",
+      "test_end": "2025-05-01 00:00:00+00:00",
+      "train_start": "2024-03-01 00:00:00+00:00",
+      "train_end": "2025-02-28 23:59:59+00:00",
+      "n_trades": 109,
+      "n_wins": 46,
+      "n_losses": 63,
+      "win_rate": 0.42201834862385323,
+      "net": 2648.3597463434307,
+      "net_pct": 0.26483597463434305,
+      "max_dd_pct": 0.04291161023637789,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-05",
+      "test_start": "2025-05-01 00:00:00+00:00",
+      "test_end": "2025-06-01 00:00:00+00:00",
+      "train_start": "2024-04-01 00:00:00+00:00",
+      "train_end": "2025-03-31 23:59:59+00:00",
+      "n_trades": 77,
+      "n_wins": 31,
+      "n_losses": 46,
+      "win_rate": 0.4025974025974026,
+      "net": 2416.732560237724,
+      "net_pct": 0.2416732560237724,
+      "max_dd_pct": 0.054886948672213734,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-06",
+      "test_start": "2025-06-01 00:00:00+00:00",
+      "test_end": "2025-07-01 00:00:00+00:00",
+      "train_start": "2024-05-01 00:00:00+00:00",
+      "train_end": "2025-04-30 23:59:59+00:00",
+      "n_trades": 115,
+      "n_wins": 46,
+      "n_losses": 69,
+      "win_rate": 0.4,
+      "net": 1996.040885624694,
+      "net_pct": 0.19960408856246942,
+      "max_dd_pct": 0.06649728946917276,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-07",
+      "test_start": "2025-07-01 00:00:00+00:00",
+      "test_end": "2025-08-01 00:00:00+00:00",
+      "train_start": "2024-06-01 00:00:00+00:00",
+      "train_end": "2025-05-31 23:59:59+00:00",
+      "n_trades": 110,
+      "n_wins": 56,
+      "n_losses": 54,
+      "win_rate": 0.509090909090909,
+      "net": 5866.844693325453,
+      "net_pct": 0.5866844693325453,
+      "max_dd_pct": 0.03627282858088826,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-08",
+      "test_start": "2025-08-01 00:00:00+00:00",
+      "test_end": "2025-09-01 00:00:00+00:00",
+      "train_start": "2024-07-01 00:00:00+00:00",
+      "train_end": "2025-06-30 23:59:59+00:00",
+      "n_trades": 112,
+      "n_wins": 53,
+      "n_losses": 59,
+      "win_rate": 0.4732142857142857,
+      "net": 12195.99043435714,
+      "net_pct": 1.219599043435714,
+      "max_dd_pct": 0.044200981639636636,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-09",
+      "test_start": "2025-09-01 00:00:00+00:00",
+      "test_end": "2025-10-01 00:00:00+00:00",
+      "train_start": "2024-08-01 00:00:00+00:00",
+      "train_end": "2025-07-31 23:59:59+00:00",
+      "n_trades": 132,
+      "n_wins": 63,
+      "n_losses": 69,
+      "win_rate": 0.4772727272727273,
+      "net": 2044.4386803867365,
+      "net_pct": 0.20444386803867365,
+      "max_dd_pct": 0.055891309030920024,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-10",
+      "test_start": "2025-10-01 00:00:00+00:00",
+      "test_end": "2025-11-01 00:00:00+00:00",
+      "train_start": "2024-09-01 00:00:00+00:00",
+      "train_end": "2025-08-31 23:59:59+00:00",
+      "n_trades": 132,
+      "n_wins": 68,
+      "n_losses": 64,
+      "win_rate": 0.5151515151515151,
+      "net": 12678.43496777186,
+      "net_pct": 1.267843496777186,
+      "max_dd_pct": 0.040356619339880474,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-11",
+      "test_start": "2025-11-01 00:00:00+00:00",
+      "test_end": "2025-12-01 00:00:00+00:00",
+      "train_start": "2024-10-01 00:00:00+00:00",
+      "train_end": "2025-09-30 23:59:59+00:00",
+      "n_trades": 81,
+      "n_wins": 39,
+      "n_losses": 42,
+      "win_rate": 0.48148148148148145,
+      "net": 1577.3690725667093,
+      "net_pct": 0.15773690725667092,
+      "max_dd_pct": 0.0739375454149259,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2025-12",
+      "test_start": "2025-12-01 00:00:00+00:00",
+      "test_end": "2026-01-01 00:00:00+00:00",
+      "train_start": "2024-11-01 00:00:00+00:00",
+      "train_end": "2025-10-31 23:59:59+00:00",
+      "n_trades": 92,
+      "n_wins": 46,
+      "n_losses": 46,
+      "win_rate": 0.5,
+      "net": 1928.6000683571328,
+      "net_pct": 0.19286000683571328,
+      "max_dd_pct": 0.0429242709619064,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-01",
+      "test_start": "2026-01-01 00:00:00+00:00",
+      "test_end": "2026-02-01 00:00:00+00:00",
+      "train_start": "2024-12-01 00:00:00+00:00",
+      "train_end": "2025-11-30 23:59:59+00:00",
+      "n_trades": 112,
+      "n_wins": 56,
+      "n_losses": 56,
+      "win_rate": 0.5,
+      "net": 2701.405683415993,
+      "net_pct": 0.2701405683415993,
+      "max_dd_pct": 0.0419205352980938,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-02",
+      "test_start": "2026-02-01 00:00:00+00:00",
+      "test_end": "2026-03-01 00:00:00+00:00",
+      "train_start": "2025-01-01 00:00:00+00:00",
+      "train_end": "2025-12-31 23:59:59+00:00",
+      "n_trades": 96,
+      "n_wins": 47,
+      "n_losses": 49,
+      "win_rate": 0.4895833333333333,
+      "net": 2010.447129270975,
+      "net_pct": 0.2010447129270975,
+      "max_dd_pct": 0.02688786631331859,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-03",
+      "test_start": "2026-03-01 00:00:00+00:00",
+      "test_end": "2026-04-01 00:00:00+00:00",
+      "train_start": "2025-02-01 00:00:00+00:00",
+      "train_end": "2026-01-31 23:59:59+00:00",
+      "n_trades": 81,
+      "n_wins": 45,
+      "n_losses": 36,
+      "win_rate": 0.5555555555555556,
+      "net": 2763.796963036066,
+      "net_pct": 0.2763796963036066,
+      "max_dd_pct": 0.04161806040394306,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-04",
+      "test_start": "2026-04-01 00:00:00+00:00",
+      "test_end": "2026-05-01 00:00:00+00:00",
+      "train_start": "2025-03-01 00:00:00+00:00",
+      "train_end": "2026-02-28 23:59:59+00:00",
+      "n_trades": 92,
+      "n_wins": 45,
+      "n_losses": 47,
+      "win_rate": 0.4891304347826087,
+      "net": 3464.920371361217,
+      "net_pct": 0.3464920371361217,
+      "max_dd_pct": 0.05977244862777204,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-05",
+      "test_start": "2026-05-01 00:00:00+00:00",
+      "test_end": "2026-06-01 00:00:00+00:00",
+      "train_start": "2025-04-01 00:00:00+00:00",
+      "train_end": "2026-03-31 23:59:59+00:00",
+      "n_trades": 122,
+      "n_wins": 65,
+      "n_losses": 57,
+      "win_rate": 0.5327868852459017,
+      "net": 2863.2380190578806,
+      "net_pct": 0.28632380190578804,
+      "max_dd_pct": 0.03708290578228991,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-06",
+      "test_start": "2026-06-01 00:00:00+00:00",
+      "test_end": "2026-07-01 00:00:00+00:00",
+      "train_start": "2025-05-01 00:00:00+00:00",
+      "train_end": "2026-04-30 23:59:59+00:00",
+      "n_trades": 130,
+      "n_wins": 55,
+      "n_losses": 75,
+      "win_rate": 0.4230769230769231,
+      "net": 1510.4700866908533,
+      "net_pct": 0.15104700866908533,
+      "max_dd_pct": 0.03170339948588386,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-07",
+      "test_start": "2026-07-01 00:00:00+00:00",
+      "test_end": "2026-08-01 00:00:00+00:00",
+      "train_start": "2025-06-01 00:00:00+00:00",
+      "train_end": "2026-05-31 23:59:59+00:00",
+      "n_trades": 127,
+      "n_wins": 71,
+      "n_losses": 56,
+      "win_rate": 0.5590551181102362,
+      "net": 8388.988063935616,
+      "net_pct": 0.8388988063935616,
+      "max_dd_pct": 0.054020319613035224,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-08",
+      "test_start": "2026-08-01 00:00:00+00:00",
+      "test_end": "2026-09-01 00:00:00+00:00",
+      "train_start": "2025-07-01 00:00:00+00:00",
+      "train_end": "2026-06-30 23:59:59+00:00",
+      "n_trades": 103,
+      "n_wins": 46,
+      "n_losses": 57,
+      "win_rate": 0.44660194174757284,
+      "net": 4967.838679707145,
+      "net_pct": 0.49678386797071455,
+      "max_dd_pct": 0.05953553530818853,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-09",
+      "test_start": "2026-09-01 00:00:00+00:00",
+      "test_end": "2026-10-01 00:00:00+00:00",
+      "train_start": "2025-08-01 00:00:00+00:00",
+      "train_end": "2026-07-31 23:59:59+00:00",
+      "n_trades": 87,
+      "n_wins": 38,
+      "n_losses": 49,
+      "win_rate": 0.4367816091954023,
+      "net": 1956.8060002680522,
+      "net_pct": 0.19568060002680523,
+      "max_dd_pct": 0.035001854687825545,
+      "n_ais_trained": 9
+    },
+    {
+      "month": "2026-10",
+      "test_start": "2026-10-01 00:00:00+00:00",
+      "test_end": "2026-11-01 00:00:00+00:00",
+      "train_start": "2025-09-01 00:00:00+00:00",
+      "train_end": "2026-08-31 23:59:59+00:00",
+      "n_trades": 51,
+      "n_wins": 24,
+      "n_losses": 27,
+      "win_rate": 0.47058823529411764,
+      "net": 360.5468566526688,
+      "net_pct": 0.03605468566526688,
+      "max_dd_pct": 0.03508171084534438,
+      "n_ais_trained": 9
+    }
+  ],
+  "audit_log": [
+    {
+      "month": "2023-11",
+      "train_start": "2022-10-01 00:00:00+00:00",
+      "train_end": "2023-09-30 23:59:59+00:00",
+      "val_start": "2023-10-01 00:00:00+00:00",
+      "val_end": "2023-10-31 23:59:59+00:00",
+      "test_start": "2023-11-01 00:00:00+00:00",
+      "test_end": "2023-12-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 488,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 530,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 562,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 567,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 498,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 552,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 474,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 554,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 519,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2023-12",
+      "train_start": "2022-11-01 00:00:00+00:00",
+      "train_end": "2023-10-31 23:59:59+00:00",
+      "val_start": "2023-11-01 00:00:00+00:00",
+      "val_end": "2023-11-30 23:59:59+00:00",
+      "test_start": "2023-12-01 00:00:00+00:00",
+      "test_end": "2024-01-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 486,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 527,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 563,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 561,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 501,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 574,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 467,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 567,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 513,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-01",
+      "train_start": "2022-12-01 00:00:00+00:00",
+      "train_end": "2023-11-30 23:59:59+00:00",
+      "val_start": "2023-12-01 00:00:00+00:00",
+      "val_end": "2023-12-31 23:59:59+00:00",
+      "test_start": "2024-01-01 00:00:00+00:00",
+      "test_end": "2024-02-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 505,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 533,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 563,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 562,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 493,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 589,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 479,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 577,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 518,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-02",
+      "train_start": "2023-01-01 00:00:00+00:00",
+      "train_end": "2023-12-31 23:59:59+00:00",
+      "val_start": "2024-01-01 00:00:00+00:00",
+      "val_end": "2024-01-31 23:59:59+00:00",
+      "test_start": "2024-02-01 00:00:00+00:00",
+      "test_end": "2024-03-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 532,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 547,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 587,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 581,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 502,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 613,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 486,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 604,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 504,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-03",
+      "train_start": "2023-02-01 00:00:00+00:00",
+      "train_end": "2024-01-31 23:59:59+00:00",
+      "val_start": "2024-02-01 00:00:00+00:00",
+      "val_end": "2024-02-29 23:59:59+00:00",
+      "test_start": "2024-03-01 00:00:00+00:00",
+      "test_end": "2024-04-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 550,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 569,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 600,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 600,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 513,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 621,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 485,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 631,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 489,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-04",
+      "train_start": "2023-03-01 00:00:00+00:00",
+      "train_end": "2024-02-29 23:59:59+00:00",
+      "val_start": "2024-03-01 00:00:00+00:00",
+      "val_end": "2024-03-31 23:59:59+00:00",
+      "test_start": "2024-04-01 00:00:00+00:00",
+      "test_end": "2024-05-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 574,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 582,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 608,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 597,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 510,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 632,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 500,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 641,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 468,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-05",
+      "train_start": "2023-04-01 00:00:00+00:00",
+      "train_end": "2024-03-31 23:59:59+00:00",
+      "val_start": "2024-04-01 00:00:00+00:00",
+      "val_end": "2024-04-30 23:59:59+00:00",
+      "test_start": "2024-05-01 00:00:00+00:00",
+      "test_end": "2024-06-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 562,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 589,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 604,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 584,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 492,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 611,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 491,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 637,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 463,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-06",
+      "train_start": "2023-05-01 00:00:00+00:00",
+      "train_end": "2024-04-30 23:59:59+00:00",
+      "val_start": "2024-05-01 00:00:00+00:00",
+      "val_end": "2024-05-31 23:59:59+00:00",
+      "test_start": "2024-06-01 00:00:00+00:00",
+      "test_end": "2024-07-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 572,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 611,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 596,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 595,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 494,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 615,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 499,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 641,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 445,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-07",
+      "train_start": "2023-06-01 00:00:00+00:00",
+      "train_end": "2024-05-31 23:59:59+00:00",
+      "val_start": "2024-06-01 00:00:00+00:00",
+      "val_end": "2024-06-30 23:59:59+00:00",
+      "test_start": "2024-07-01 00:00:00+00:00",
+      "test_end": "2024-08-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 598,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 630,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 616,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 606,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 511,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 629,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 523,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 656,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 417,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-08",
+      "train_start": "2023-07-01 00:00:00+00:00",
+      "train_end": "2024-06-30 23:59:59+00:00",
+      "val_start": "2024-07-01 00:00:00+00:00",
+      "val_end": "2024-07-31 23:59:59+00:00",
+      "test_start": "2024-08-01 00:00:00+00:00",
+      "test_end": "2024-09-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 615,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 627,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 619,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 603,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 509,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 624,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 539,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 659,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 385,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-09",
+      "train_start": "2023-08-01 00:00:00+00:00",
+      "train_end": "2024-07-31 23:59:59+00:00",
+      "val_start": "2024-08-01 00:00:00+00:00",
+      "val_end": "2024-08-31 23:59:59+00:00",
+      "test_start": "2024-09-01 00:00:00+00:00",
+      "test_end": "2024-10-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 644,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 641,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 635,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 620,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 520,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 643,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 560,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 659,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 387,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-10",
+      "train_start": "2023-09-01 00:00:00+00:00",
+      "train_end": "2024-08-31 23:59:59+00:00",
+      "val_start": "2024-09-01 00:00:00+00:00",
+      "val_end": "2024-09-30 23:59:59+00:00",
+      "test_start": "2024-10-01 00:00:00+00:00",
+      "test_end": "2024-11-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 653,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 648,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 649,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 632,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 528,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 659,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 583,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 682,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 386,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-11",
+      "train_start": "2023-10-01 00:00:00+00:00",
+      "train_end": "2024-09-30 23:59:59+00:00",
+      "val_start": "2024-10-01 00:00:00+00:00",
+      "val_end": "2024-10-31 23:59:59+00:00",
+      "test_start": "2024-11-01 00:00:00+00:00",
+      "test_end": "2024-12-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 677,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 665,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 678,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 654,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 545,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 690,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 606,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 712,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 384,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2024-12",
+      "train_start": "2023-11-01 00:00:00+00:00",
+      "train_end": "2024-10-31 23:59:59+00:00",
+      "val_start": "2024-11-01 00:00:00+00:00",
+      "val_end": "2024-11-30 23:59:59+00:00",
+      "test_start": "2024-12-01 00:00:00+00:00",
+      "test_end": "2025-01-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 694,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 683,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 686,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 672,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 558,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 674,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 634,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 739,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 376,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-01",
+      "train_start": "2023-12-01 00:00:00+00:00",
+      "train_end": "2024-11-30 23:59:59+00:00",
+      "val_start": "2024-12-01 00:00:00+00:00",
+      "val_end": "2024-12-31 23:59:59+00:00",
+      "test_start": "2025-01-01 00:00:00+00:00",
+      "test_end": "2025-02-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 700,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 694,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 697,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 676,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 579,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 673,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 637,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 751,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 364,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-02",
+      "train_start": "2024-01-01 00:00:00+00:00",
+      "train_end": "2024-12-31 23:59:59+00:00",
+      "val_start": "2025-01-01 00:00:00+00:00",
+      "val_end": "2025-01-31 23:59:59+00:00",
+      "test_start": "2025-02-01 00:00:00+00:00",
+      "test_end": "2025-03-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 718,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 701,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 705,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 683,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 577,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 664,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 649,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 753,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 364,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-03",
+      "train_start": "2024-02-01 00:00:00+00:00",
+      "train_end": "2025-01-31 23:59:59+00:00",
+      "val_start": "2025-02-01 00:00:00+00:00",
+      "val_end": "2025-02-28 23:59:59+00:00",
+      "test_start": "2025-03-01 00:00:00+00:00",
+      "test_end": "2025-04-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 722,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 702,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 709,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 687,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 582,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 668,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 658,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 755,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 374,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-04",
+      "train_start": "2024-03-01 00:00:00+00:00",
+      "train_end": "2025-02-28 23:59:59+00:00",
+      "val_start": "2025-03-01 00:00:00+00:00",
+      "val_end": "2025-03-31 23:59:59+00:00",
+      "test_start": "2025-04-01 00:00:00+00:00",
+      "test_end": "2025-05-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 713,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 699,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 705,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 701,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 609,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 661,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 663,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 765,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 395,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-05",
+      "train_start": "2024-04-01 00:00:00+00:00",
+      "train_end": "2025-03-31 23:59:59+00:00",
+      "val_start": "2025-04-01 00:00:00+00:00",
+      "val_end": "2025-04-30 23:59:59+00:00",
+      "test_start": "2025-05-01 00:00:00+00:00",
+      "test_end": "2025-06-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 740,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 698,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 709,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 719,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 630,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 682,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 673,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 774,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 397,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-06",
+      "train_start": "2024-05-01 00:00:00+00:00",
+      "train_end": "2025-04-30 23:59:59+00:00",
+      "val_start": "2025-05-01 00:00:00+00:00",
+      "val_end": "2025-05-31 23:59:59+00:00",
+      "test_start": "2025-06-01 00:00:00+00:00",
+      "test_end": "2025-07-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 742,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 688,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 724,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 723,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 640,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 690,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 695,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 790,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 433,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-07",
+      "train_start": "2024-06-01 00:00:00+00:00",
+      "train_end": "2025-05-31 23:59:59+00:00",
+      "val_start": "2025-06-01 00:00:00+00:00",
+      "val_end": "2025-06-30 23:59:59+00:00",
+      "test_start": "2025-07-01 00:00:00+00:00",
+      "test_end": "2025-08-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 737,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 693,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 719,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 721,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 638,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 700,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 691,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 791,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 466,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-08",
+      "train_start": "2024-07-01 00:00:00+00:00",
+      "train_end": "2025-06-30 23:59:59+00:00",
+      "val_start": "2025-07-01 00:00:00+00:00",
+      "val_end": "2025-07-31 23:59:59+00:00",
+      "test_start": "2025-08-01 00:00:00+00:00",
+      "test_end": "2025-09-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 736,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 701,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 719,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 733,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 641,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 717,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 697,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 788,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 502,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-09",
+      "train_start": "2024-08-01 00:00:00+00:00",
+      "train_end": "2025-07-31 23:59:59+00:00",
+      "val_start": "2025-08-01 00:00:00+00:00",
+      "val_end": "2025-08-31 23:59:59+00:00",
+      "test_start": "2025-09-01 00:00:00+00:00",
+      "test_end": "2025-10-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 743,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 699,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 728,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 749,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 639,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 707,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 705,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 780,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 525,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-10",
+      "train_start": "2024-09-01 00:00:00+00:00",
+      "train_end": "2025-08-31 23:59:59+00:00",
+      "val_start": "2025-09-01 00:00:00+00:00",
+      "val_end": "2025-09-30 23:59:59+00:00",
+      "test_start": "2025-10-01 00:00:00+00:00",
+      "test_end": "2025-11-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 743,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 710,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 723,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 756,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 656,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 708,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 704,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 776,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 564,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-11",
+      "train_start": "2024-10-01 00:00:00+00:00",
+      "train_end": "2025-09-30 23:59:59+00:00",
+      "val_start": "2025-10-01 00:00:00+00:00",
+      "val_end": "2025-10-31 23:59:59+00:00",
+      "test_start": "2025-11-01 00:00:00+00:00",
+      "test_end": "2025-12-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 735,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 706,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 719,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 753,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 645,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 697,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 697,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 780,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 596,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2025-12",
+      "train_start": "2024-11-01 00:00:00+00:00",
+      "train_end": "2025-10-31 23:59:59+00:00",
+      "val_start": "2025-11-01 00:00:00+00:00",
+      "val_end": "2025-11-30 23:59:59+00:00",
+      "test_start": "2025-12-01 00:00:00+00:00",
+      "test_end": "2026-01-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 728,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 697,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 731,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 753,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 645,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 705,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 682,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 768,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 615,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-01",
+      "train_start": "2024-12-01 00:00:00+00:00",
+      "train_end": "2025-11-30 23:59:59+00:00",
+      "val_start": "2025-12-01 00:00:00+00:00",
+      "val_end": "2025-12-31 23:59:59+00:00",
+      "test_start": "2026-01-01 00:00:00+00:00",
+      "test_end": "2026-02-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 738,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 703,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 722,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 757,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 649,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 707,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 689,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 751,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 650,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-02",
+      "train_start": "2025-01-01 00:00:00+00:00",
+      "train_end": "2025-12-31 23:59:59+00:00",
+      "val_start": "2026-01-01 00:00:00+00:00",
+      "val_end": "2026-01-31 23:59:59+00:00",
+      "test_start": "2026-02-01 00:00:00+00:00",
+      "test_end": "2026-03-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 716,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 683,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 713,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 750,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 648,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 708,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 686,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 734,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 687,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-03",
+      "train_start": "2025-02-01 00:00:00+00:00",
+      "train_end": "2026-01-31 23:59:59+00:00",
+      "val_start": "2026-02-01 00:00:00+00:00",
+      "val_end": "2026-02-28 23:59:59+00:00",
+      "test_start": "2026-03-01 00:00:00+00:00",
+      "test_end": "2026-04-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 714,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 659,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 703,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 738,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 654,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 696,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 677,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 725,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 725,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-04",
+      "train_start": "2025-03-01 00:00:00+00:00",
+      "train_end": "2026-02-28 23:59:59+00:00",
+      "val_start": "2026-03-01 00:00:00+00:00",
+      "val_end": "2026-03-31 23:59:59+00:00",
+      "test_start": "2026-04-01 00:00:00+00:00",
+      "test_end": "2026-05-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 714,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 654,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 710,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 731,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 650,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 699,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 671,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 720,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 732,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-05",
+      "train_start": "2025-04-01 00:00:00+00:00",
+      "train_end": "2026-03-31 23:59:59+00:00",
+      "val_start": "2026-04-01 00:00:00+00:00",
+      "val_end": "2026-04-30 23:59:59+00:00",
+      "test_start": "2026-05-01 00:00:00+00:00",
+      "test_end": "2026-06-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 699,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 646,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 703,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 705,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 654,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 677,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 660,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 698,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 750,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-06",
+      "train_start": "2025-05-01 00:00:00+00:00",
+      "train_end": "2026-04-30 23:59:59+00:00",
+      "val_start": "2026-05-01 00:00:00+00:00",
+      "val_end": "2026-05-31 23:59:59+00:00",
+      "test_start": "2026-06-01 00:00:00+00:00",
+      "test_end": "2026-07-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 689,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 633,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 694,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 692,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 659,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 662,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 647,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 688,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 748,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-07",
+      "train_start": "2025-06-01 00:00:00+00:00",
+      "train_end": "2026-05-31 23:59:59+00:00",
+      "val_start": "2026-06-01 00:00:00+00:00",
+      "val_end": "2026-06-30 23:59:59+00:00",
+      "test_start": "2026-07-01 00:00:00+00:00",
+      "test_end": "2026-08-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 672,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 625,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 702,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 690,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 663,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 651,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 635,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 684,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 748,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-08",
+      "train_start": "2025-07-01 00:00:00+00:00",
+      "train_end": "2026-06-30 23:59:59+00:00",
+      "val_start": "2026-07-01 00:00:00+00:00",
+      "val_end": "2026-07-31 23:59:59+00:00",
+      "test_start": "2026-08-01 00:00:00+00:00",
+      "test_end": "2026-09-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 667,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 625,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 704,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 684,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 675,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 650,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 638,
+          "trained": true,
+          "threshold": 0.4,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 680,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 747,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-09",
+      "train_start": "2025-08-01 00:00:00+00:00",
+      "train_end": "2026-07-31 23:59:59+00:00",
+      "val_start": "2026-08-01 00:00:00+00:00",
+      "val_end": "2026-08-31 23:59:59+00:00",
+      "test_start": "2026-09-01 00:00:00+00:00",
+      "test_end": "2026-10-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 650,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 614,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 688,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 654,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 679,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 648,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 629,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 670,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 764,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    },
+    {
+      "month": "2026-10",
+      "train_start": "2025-09-01 00:00:00+00:00",
+      "train_end": "2026-08-31 23:59:59+00:00",
+      "val_start": "2026-09-01 00:00:00+00:00",
+      "val_end": "2026-09-30 23:59:59+00:00",
+      "test_start": "2026-10-01 00:00:00+00:00",
+      "test_end": "2026-11-01 00:00:00+00:00",
+      "train_end_lt_val_start": true,
+      "val_end_lt_test_start": true,
+      "ais_trained": {
+        "BTCUSDT": {
+          "n_samples": 652,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ETHUSDT": {
+          "n_samples": 595,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "BNBUSDT": {
+          "n_samples": 684,
+          "trained": true,
+          "threshold": 0.55,
+          "train_win_rate": "logged_in_model"
+        },
+        "SOLUSDT": {
+          "n_samples": 653,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "XRPUSDT": {
+          "n_samples": 689,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        },
+        "ADAUSDT": {
+          "n_samples": 640,
+          "trained": true,
+          "threshold": 0.45,
+          "train_win_rate": "logged_in_model"
+        },
+        "DOGEUSDT": {
+          "n_samples": 624,
+          "trained": true,
+          "threshold": 0.6,
+          "train_win_rate": "logged_in_model"
+        },
+        "AVAXUSDT": {
+          "n_samples": 655,
+          "trained": true,
+          "threshold": 0.35,
+          "train_win_rate": "logged_in_model"
+        },
+        "PAXGUSDT": {
+          "n_samples": 764,
+          "trained": true,
+          "threshold": 0.5,
+          "train_win_rate": "logged_in_model"
+        }
+      }
+    }
+  ]
+}

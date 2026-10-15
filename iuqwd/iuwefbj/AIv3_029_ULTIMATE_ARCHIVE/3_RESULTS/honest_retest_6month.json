@@ -1,0 +1,404 @@
+{
+  "with_ai": [
+    {
+      "month": "2026-05",
+      "n_trades": 122,
+      "final_wallet": 12863.23801905788,
+      "net": 2863.2380190578806,
+      "net_pct": 0.28632380190578804,
+      "peak_wallet": 12949.20347748367,
+      "max_dd_pct": 0.03708290578228991,
+      "n_wins": 65,
+      "n_losses": 57,
+      "win_rate": 0.5327868852459017,
+      "ai_decisions": {
+        "approved": 122,
+        "rejected": 83,
+        "skipped_rm": 828,
+        "skipped_portfolio": 1037
+      },
+      "exit_reasons": {
+        "trail_win": 65,
+        "stop": 57
+      }
+    },
+    {
+      "month": "2026-06",
+      "n_trades": 130,
+      "final_wallet": 11510.470086690853,
+      "net": 1510.4700866908533,
+      "net_pct": 0.15104700866908533,
+      "peak_wallet": 11637.143518672234,
+      "max_dd_pct": 0.03170339948588386,
+      "n_wins": 55,
+      "n_losses": 75,
+      "win_rate": 0.4230769230769231,
+      "ai_decisions": {
+        "approved": 130,
+        "rejected": 80,
+        "skipped_rm": 1323,
+        "skipped_portfolio": 1144
+      },
+      "exit_reasons": {
+        "trail_win": 71,
+        "stop": 59
+      }
+    },
+    {
+      "month": "2026-07",
+      "n_trades": 127,
+      "final_wallet": 18388.988063935616,
+      "net": 8388.988063935616,
+      "net_pct": 0.8388988063935616,
+      "peak_wallet": 18614.426272856675,
+      "max_dd_pct": 0.054020319613035224,
+      "n_wins": 71,
+      "n_losses": 56,
+      "win_rate": 0.5590551181102362,
+      "ai_decisions": {
+        "approved": 127,
+        "rejected": 81,
+        "skipped_rm": 1071,
+        "skipped_portfolio": 1120
+      },
+      "exit_reasons": {
+        "stop": 72,
+        "trail_win": 55
+      }
+    },
+    {
+      "month": "2026-08",
+      "n_trades": 103,
+      "final_wallet": 14967.838679707145,
+      "net": 4967.838679707145,
+      "net_pct": 0.49678386797071455,
+      "peak_wallet": 14983.486993807073,
+      "max_dd_pct": 0.05953553530818853,
+      "n_wins": 46,
+      "n_losses": 57,
+      "win_rate": 0.44660194174757284,
+      "ai_decisions": {
+        "approved": 103,
+        "rejected": 166,
+        "skipped_rm": 999,
+        "skipped_portfolio": 912
+      },
+      "exit_reasons": {
+        "stop": 51,
+        "trail_win": 52
+      }
+    },
+    {
+      "month": "2026-09",
+      "n_trades": 87,
+      "final_wallet": 11956.806000268052,
+      "net": 1956.8060002680522,
+      "net_pct": 0.19568060002680523,
+      "peak_wallet": 12022.857038268254,
+      "max_dd_pct": 0.035001854687825545,
+      "n_wins": 38,
+      "n_losses": 49,
+      "win_rate": 0.4367816091954023,
+      "ai_decisions": {
+        "approved": 87,
+        "rejected": 158,
+        "skipped_rm": 828,
+        "skipped_portfolio": 712
+      },
+      "exit_reasons": {
+        "trail_win": 52,
+        "stop": 35
+      }
+    },
+    {
+      "month": "2026-10",
+      "n_trades": 51,
+      "final_wallet": 10360.546856652669,
+      "net": 360.5468566526688,
+      "net_pct": 0.03605468566526688,
+      "peak_wallet": 10530.059506347288,
+      "max_dd_pct": 0.03508171084534438,
+      "n_wins": 24,
+      "n_losses": 27,
+      "win_rate": 0.47058823529411764,
+      "ai_decisions": {
+        "approved": 51,
+        "rejected": 81,
+        "skipped_rm": 279,
+        "skipped_portfolio": 424
+      },
+      "exit_reasons": {
+        "stop": 27,
+        "trail_win": 24
+      }
+    }
+  ],
+  "no_ai": [
+    {
+      "month": "2026-05",
+      "n_trades": 154,
+      "final_wallet": 13320.015512813543,
+      "net": 3320.015512813543,
+      "net_pct": 0.3320015512813543,
+      "peak_wallet": 14122.50696677286,
+      "max_dd_pct": 0.05682358350733354,
+      "n_wins": 79,
+      "n_losses": 75,
+      "win_rate": 0.512987012987013,
+      "ai_decisions": {
+        "approved": 154,
+        "rejected": 0,
+        "skipped_rm": 1800,
+        "skipped_portfolio": 1323
+      },
+      "exit_reasons": {
+        "trail_win": 80,
+        "stop": 74
+      }
+    },
+    {
+      "month": "2026-06",
+      "n_trades": 139,
+      "final_wallet": 10461.84093589508,
+      "net": 461.8409358950794,
+      "net_pct": 0.04618409358950794,
+      "peak_wallet": 10655.456222842135,
+      "max_dd_pct": 0.059367073297556146,
+      "n_wins": 54,
+      "n_losses": 85,
+      "win_rate": 0.38848920863309355,
+      "ai_decisions": {
+        "approved": 139,
+        "rejected": 0,
+        "skipped_rm": 1935,
+        "skipped_portfolio": 1226
+      },
+      "exit_reasons": {
+        "trail_win": 81,
+        "stop": 58
+      }
+    },
+    {
+      "month": "2026-07",
+      "n_trades": 159,
+      "final_wallet": 12784.04732435472,
+      "net": 2784.0473243547203,
+      "net_pct": 0.27840473243547204,
+      "peak_wallet": 13035.634792783245,
+      "max_dd_pct": 0.08411000327088312,
+      "n_wins": 78,
+      "n_losses": 81,
+      "win_rate": 0.49056603773584906,
+      "ai_decisions": {
+        "approved": 159,
+        "rejected": 0,
+        "skipped_rm": 1647,
+        "skipped_portfolio": 1452
+      },
+      "exit_reasons": {
+        "stop": 76,
+        "trail_win": 83
+      }
+    },
+    {
+      "month": "2026-08",
+      "n_trades": 25,
+      "final_wallet": 9443.09481437136,
+      "net": -556.9051856286405,
+      "net_pct": -0.055690518562864055,
+      "peak_wallet": 10073.38141629294,
+      "max_dd_pct": 0.06256951622045588,
+      "n_wins": 9,
+      "n_losses": 16,
+      "win_rate": 0.36,
+      "ai_decisions": {
+        "approved": 25,
+        "rejected": 0,
+        "skipped_rm": 6003,
+        "skipped_portfolio": 224
+      },
+      "exit_reasons": {
+        "stop": 9,
+        "trail_win": 16
+      }
+    },
+    {
+      "month": "2026-09",
+      "n_trades": 166,
+      "final_wallet": 13027.035406697403,
+      "net": 3027.0354066974032,
+      "net_pct": 0.3027035406697403,
+      "peak_wallet": 13088.775802392565,
+      "max_dd_pct": 0.05694876293190675,
+      "n_wins": 78,
+      "n_losses": 88,
+      "win_rate": 0.46987951807228917,
+      "ai_decisions": {
+        "approved": 166,
+        "rejected": 0,
+        "skipped_rm": 1008,
+        "skipped_portfolio": 1386
+      },
+      "exit_reasons": {
+        "trail_win": 84,
+        "stop": 82
+      }
+    },
+    {
+      "month": "2026-10",
+      "n_trades": 71,
+      "final_wallet": 11011.76301847699,
+      "net": 1011.7630184769896,
+      "net_pct": 0.10117630184769896,
+      "peak_wallet": 11801.431131296207,
+      "max_dd_pct": 0.08159770951028648,
+      "n_wins": 32,
+      "n_losses": 39,
+      "win_rate": 0.4507042253521127,
+      "ai_decisions": {
+        "approved": 71,
+        "rejected": 0,
+        "skipped_rm": 765,
+        "skipped_portfolio": 584
+      },
+      "exit_reasons": {
+        "stop": 37,
+        "trail_win": 34
+      }
+    }
+  ],
+  "coinflip": [
+    {
+      "month": "2026-05",
+      "n_trades": 127,
+      "final_wallet": 13135.78680269409,
+      "net": 3135.7868026940905,
+      "net_pct": 0.31357868026940905,
+      "peak_wallet": 13135.78680269409,
+      "max_dd_pct": 0.03718843736647155,
+      "n_wins": 75,
+      "n_losses": 52,
+      "win_rate": 0.5905511811023622,
+      "ai_decisions": {
+        "approved": 127,
+        "rejected": 105,
+        "skipped_rm": 954,
+        "skipped_portfolio": 1232
+      },
+      "exit_reasons": {
+        "stop": 60,
+        "trail_win": 67
+      }
+    },
+    {
+      "month": "2026-06",
+      "n_trades": 107,
+      "final_wallet": 12588.635103085735,
+      "net": 2588.635103085735,
+      "net_pct": 0.2588635103085735,
+      "peak_wallet": 12654.71928145125,
+      "max_dd_pct": 0.05485729863821222,
+      "n_wins": 49,
+      "n_losses": 58,
+      "win_rate": 0.45794392523364486,
+      "ai_decisions": {
+        "approved": 107,
+        "rejected": 113,
+        "skipped_rm": 1305,
+        "skipped_portfolio": 917
+      },
+      "exit_reasons": {
+        "trail_win": 54,
+        "stop": 53
+      }
+    },
+    {
+      "month": "2026-07",
+      "n_trades": 109,
+      "final_wallet": 9786.064398044176,
+      "net": -213.93560195582359,
+      "net_pct": -0.02139356019558236,
+      "peak_wallet": 10865.883723355371,
+      "max_dd_pct": 0.10986535752364363,
+      "n_wins": 48,
+      "n_losses": 61,
+      "win_rate": 0.44036697247706424,
+      "ai_decisions": {
+        "approved": 109,
+        "rejected": 78,
+        "skipped_rm": 1593,
+        "skipped_portfolio": 992
+      },
+      "exit_reasons": {
+        "stop": 46,
+        "trail_win": 63
+      }
+    },
+    {
+      "month": "2026-08",
+      "n_trades": 122,
+      "final_wallet": 11081.031555361364,
+      "net": 1081.0315553613636,
+      "net_pct": 0.10810315553613636,
+      "peak_wallet": 11310.378338792083,
+      "max_dd_pct": 0.06863242413435314,
+      "n_wins": 56,
+      "n_losses": 66,
+      "win_rate": 0.45901639344262296,
+      "ai_decisions": {
+        "approved": 122,
+        "rejected": 107,
+        "skipped_rm": 1530,
+        "skipped_portfolio": 1095
+      },
+      "exit_reasons": {
+        "stop": 57,
+        "trail_win": 65
+      }
+    },
+    {
+      "month": "2026-09",
+      "n_trades": 106,
+      "final_wallet": 11131.604846546075,
+      "net": 1131.6048465460754,
+      "net_pct": 0.11316048465460754,
+      "peak_wallet": 11141.127502423487,
+      "max_dd_pct": 0.05088236190293121,
+      "n_wins": 48,
+      "n_losses": 58,
+      "win_rate": 0.4528301886792453,
+      "ai_decisions": {
+        "approved": 106,
+        "rejected": 113,
+        "skipped_rm": 1170,
+        "skipped_portfolio": 886
+      },
+      "exit_reasons": {
+        "trail_win": 55,
+        "stop": 51
+      }
+    },
+    {
+      "month": "2026-10",
+      "n_trades": 65,
+      "final_wallet": 12118.036569923828,
+      "net": 2118.036569923828,
+      "net_pct": 0.21180365699238282,
+      "peak_wallet": 12266.823053740149,
+      "max_dd_pct": 0.044568471693168646,
+      "n_wins": 36,
+      "n_losses": 29,
+      "win_rate": 0.5538461538461539,
+      "ai_decisions": {
+        "approved": 65,
+        "rejected": 66,
+        "skipped_rm": 81,
+        "skipped_portfolio": 544
+      },
+      "exit_reasons": {
+        "stop": 39,
+        "trail_win": 26
+      }
+    }
+  ]
+}
